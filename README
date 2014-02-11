@@ -1,3 +1,5 @@
 Author: Kurt Haffner
 
-This code is just for a class. Nothing more.
+This code is for a class. 
+
+Assinment 0 Data Structures used this code to find the word "needle" in a text file. Also used to find the binary needle, or "00000000", in a text file by reading its bits.
